@@ -1,4 +1,6 @@
 # Techniques:
+* Logistic regression
+* Multiple Linear regression
 * Decision Tree
 * K-nearest neighbor
 
